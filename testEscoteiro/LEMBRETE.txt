@@ -1,0 +1,4 @@
+mudar a logo
+codificar o texto do quem somos 
+mudar icones do rodapé
+fazer carousel funcionar da nossa chefia 
